@@ -1,0 +1,17 @@
+{
+    "if": "Pixel 3a IF.json",
+    "lmin": "07",
+    "lmax": "07",
+    "btadd": "88:54:1F:2C:F0:3B",
+    "btname": "Pixel 3a",
+    "lmpver": "9",
+    "companyid": "29",
+    "subversion": "702",
+    "lmpfp0": "fffe8ffed83f5b87",
+    "lmpfp1": "0f00000000000000",
+    "lmpfp2": "4503000000000000",
+    "iocaps": "01",
+    "authreq": "03",
+    "oobdata": "0",
+    "deviceclass": "0c025a"
+}

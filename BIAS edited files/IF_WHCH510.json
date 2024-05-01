@@ -1,0 +1,17 @@
+{
+    "if": "WH-CH510.json",
+    "lmin": "07",
+    "lmax": "07",
+    "btadd": "74:45:CE:11:2B:0B",
+    "btname": "WH-CH510",
+    "lmpver": "9",
+    "companyid": "93",
+    "subversion": "34659",
+    "lmpfp0": "fffffffedbfd7b87",
+    "lmpfp1": "0300000000000000",
+    "lmpfp2": "1f00000000000000",
+    "iocaps": "01",
+    "authreq": "03",
+    "oobdata": "0",
+    "deviceclass": "040424"
+}
